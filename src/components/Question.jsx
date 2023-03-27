@@ -12,7 +12,7 @@ export default function Question() {
         "https://opentdb.com/api.php?amount=1&type=boolean"
       );
       let data = await response.json();
-      console.log(`Here it is: ${data}`);
+      console.log(`Here it is: ${JSON.stringify(data)}`);
 
       setCategory(data.results[0].category);
       setQuestion(data.results[0].question);
