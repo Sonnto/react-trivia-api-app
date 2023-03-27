@@ -33,9 +33,9 @@ export default function Question() {
 
   return (
     <div>
-      <h2>{category}</h2>
-      <p>{question}</p>
-      {theAnswer}
+      <div>{category}</div>
+      <h3>{question}</h3>
+      <div>{theAnswer}</div>
     </div>
   );
 }
