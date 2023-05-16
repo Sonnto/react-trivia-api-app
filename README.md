@@ -10,7 +10,7 @@ A simple application that pulls a random true-false trivia question through an A
 - React.js
 
 ## APIs
-- Open Trivia Database: [https://opentdb.com](https://opentdb.com/api_config.php)
+- [Open Trivia Database](https://opentdb.com/api_config.php)
 
 # Instructions
 
