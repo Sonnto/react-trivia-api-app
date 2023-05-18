@@ -3,7 +3,7 @@
 ## Details
 A simple application that pulls a random true-false trivia question through an API call from Open Trivia Database.
 
-## Languages, Frameworks, Tools
+## Languages, Frameworks, Tools, Technologies
 - HTML
 - CSS
 - JavaScript
